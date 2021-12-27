@@ -20,3 +20,5 @@ They all have the same shading or have three different shadings.
 They all have the same color or have three different colors.
 
 For more info please refer to https://en.wikipedia.org/wiki/Set_(card_game)
+
+To run the app extract the xcodeproj zip file and open xcodeproj in xcode.
